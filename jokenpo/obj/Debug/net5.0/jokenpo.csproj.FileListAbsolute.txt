@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.exe
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.deps.json
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.dll
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\bin\Debug\net5.0\jokenpo.pdb
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.dll
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\refint\jokenpo.dll
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.pdb
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\jokenpo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\FIAP-CSHARP\Modulo 1\Academia\jokenpo\obj\Debug\net5.0\ref\jokenpo.dll
