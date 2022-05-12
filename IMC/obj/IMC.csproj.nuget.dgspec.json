@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\IMC\\IMC.csproj": {}
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\IMC\\IMC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\IMC\\IMC.csproj": {
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\IMC\\IMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\IMC\\IMC.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\IMC\\IMC.csproj",
         "projectName": "IMC",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\IMC\\IMC.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\IMC\\IMC.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\IMC\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

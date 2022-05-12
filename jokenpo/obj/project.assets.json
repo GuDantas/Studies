@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\jokenpo\\jokenpo.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\jokenpo\\jokenpo.csproj",
       "projectName": "jokenpo",
-      "projectPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\jokenpo\\jokenpo.csproj",
+      "projectPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\jokenpo\\jokenpo.csproj",
       "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\jokenpo\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\jokenpo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

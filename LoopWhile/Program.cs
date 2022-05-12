@@ -7,7 +7,9 @@ namespace LoopWhile
         static void Main(string[] args)
         {
             int x, y, z;
-            Console.WriteLine("Input any number");
+            Console.WriteLine("This is a odd number finder");
+            Console.WriteLine();
+            Console.WriteLine("Input any real and integer number");
             x = Convert.ToInt32(Console.ReadLine());
             y = 0;
             while(y < x )

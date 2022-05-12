@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gr+aFZTENRYP9A3kLlgy3sz6EyeixkY/WVKHSVOQddGc18WuIqyemyN9Z5hh8+Iv6xRGyj6M9xj5BErD6OeaNQ==",
+  "dgSpecHash": "E/7lfi+A3v7hWBeh31P8i5le4kbbLetSlCrZTm08DtNZwDftRjzpjJoFTlNNzJpNN48eBXTxeP58pCbRHfgEKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\jokenpo\\jokenpo.csproj",
+  "projectFilePath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\jokenpo\\jokenpo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

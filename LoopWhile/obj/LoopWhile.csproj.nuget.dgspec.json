@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\LoopWhile\\LoopWhile.csproj": {}
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\LoopWhile\\LoopWhile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\LoopWhile\\LoopWhile.csproj": {
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\LoopWhile\\LoopWhile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\LoopWhile\\LoopWhile.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\LoopWhile\\LoopWhile.csproj",
         "projectName": "LoopWhile",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\LoopWhile\\LoopWhile.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\LoopWhile\\LoopWhile.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\LoopWhile\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\LoopWhile\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

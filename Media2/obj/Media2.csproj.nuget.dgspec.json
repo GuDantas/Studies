@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\Media2\\Media2.csproj": {}
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Media2\\Media2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\Media2\\Media2.csproj": {
+    "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Media2\\Media2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\Media2\\Media2.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Media2\\Media2.csproj",
         "projectName": "Media2",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\Media2\\Media2.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Media2\\Media2.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\Media2\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Media2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\MediaAluno\\MediaAluno.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\MediaAluno\\MediaAluno.csproj",
       "projectName": "MediaAluno",
-      "projectPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\MediaAluno\\MediaAluno.csproj",
+      "projectPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\MediaAluno\\MediaAluno.csproj",
       "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gustavo\\Desktop\\FIAP-CSHARP\\Modulo 1\\Academia\\MediaAluno\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\MediaAluno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
