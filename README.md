@@ -4,6 +4,8 @@ A repository for my learning content
 My first git repository too 
 I'm 17 years old
 And I used to play with code since my 13 years
+My first contact was with python
+I used to use Linux at this moment too, now I'm in Windows becaus of the C#
 Nowadays I live in São Paulo Brazil, the biggiest city in South America
 The main purpose of this GitHub is to show the evolution of my code and logic
 I´m mainly focused on CSharp
