@@ -36,7 +36,7 @@ namespace IMC
             {
                 Console.WriteLine("Obesity grade II");
             }
-            else ;
+            else 
                 Console.WriteLine("Morbid Obesity");
             }
         }   

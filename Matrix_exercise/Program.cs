@@ -6,17 +6,29 @@ namespace Matrix_exercise
     {
         static void Main(string[] args)
         {
-            double[,] Matrix = new double[5, 5];
-            for (int line = 0; line < 5; line++)
+            // This is a Matrix and Array exercise
+            double[,] Matrix = new double[3, 5];
+            for (int line = 0; line < 3; line++)
             {
                 Matrix[line, 0] = line + 1;
                 Console.WriteLine("Student {0}", line + 1);
                 for(int coluna = 1; coluna < 5; coluna++)
                 {
-                    Console.WriteLine("Type the grade from the first bimester {0}",coluna);
+                    Console.WriteLine("Type the grade from the bimester {0}",coluna);
                     Matrix[line, coluna] = Convert.ToDouble(Console.ReadLine());
+                    double media = Matrix[line + 1, coluna];
+                    Console.WriteLine(media);
+
                 }
             } 
+            for(int line = 0; line < 3; line++)
+            {
+                for(int coluna = 1; coluna < 5; coluna++)
+                {
+                    double grade = Matrix[line, coluna];
+                    Console.WriteLine(grade);
+                }
+            }
         }
     }
 }

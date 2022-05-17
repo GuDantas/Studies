@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.exe
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.deps.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.runtimeconfig.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.runtimeconfig.dev.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\bin\Debug\net5.0\Matrix_exercise.pdb
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.AssemblyInfo.cs
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\refint\Matrix_exercise.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.pdb
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\Matrix_exercise.genruntimeconfig.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Matrix_exercise\obj\Debug\net5.0\ref\Matrix_exercise.dll
