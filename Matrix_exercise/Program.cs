@@ -16,17 +16,15 @@ namespace Matrix_exercise
                 {
                     Console.WriteLine("Type the grade from the bimester {0}",coluna);
                     Matrix[line, coluna] = Convert.ToDouble(Console.ReadLine());
-                    double media = Matrix[line + 1, coluna];
-                    Console.WriteLine(media);
-
                 }
             } 
             for(int line = 0; line < 3; line++)
             {
                 for(int coluna = 1; coluna < 5; coluna++)
                 {
-                    double grade = Matrix[line, coluna];
-                    Console.WriteLine(grade);
+                    double grade = line;
+                    Console.WriteLine(line);
+                    //double media = (z + z) / 4
                 }
             }
         }
