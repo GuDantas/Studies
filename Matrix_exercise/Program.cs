@@ -7,26 +7,24 @@ namespace Matrix_exercise
         static void Main(string[] args)
         {
             // This is a Matrix and Array exercise
+            double grade;
+           
             double[,] Matrix = new double[3, 5];
             for (int line = 0; line < 3; line++)
             {
                 Matrix[line, 0] = line + 1;
                 Console.WriteLine("Student {0}", line + 1);
-                for(int coluna = 1; coluna < 5; coluna++)
+                for (int o = 1; o < 5; o++)
                 {
-                    Console.WriteLine("Type the grade from the bimester {0}",coluna);
+                    int coluna = 0;
+                    Console.WriteLine("Type the grade from the bimester {0}", o);
                     Matrix[line, coluna] = Convert.ToDouble(Console.ReadLine());
+                    grade = coluna;
                 }
-            } 
-            for(int line = 0; line < 3; line++)
-            {
-                for(int coluna = 1; coluna < 5; coluna++)
-                {
-                    double grade = line;
-                    Console.WriteLine(line);
-                    //double media = (z + z) / 4
-                }
+
             }
+           
         }
-    }
+    }       
 }
+    

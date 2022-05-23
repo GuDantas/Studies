@@ -41,12 +41,10 @@ namespace odd_and_even
                 Console.WriteLine("{0} - {1}",i, impar);
             }
             Console.WriteLine("***** EVEN NUMBERS******");
-            for(int i =0; i < geral.Length; i++){
+            for (int i = 0; i < geral.Length; i++)
+            {
                 Console.WriteLine("{0} - {1}", par, iPar);
             }
-            // This part of the program is to multiply two lists
-            Console.WriteLine("Second part off the program, multiplying lists");
-            
             }
         }
     }
