@@ -4,6 +4,7 @@ namespace OOP_Academy
 {
     internal class Program
     {
+        // first class of oop, just the introduction to the basic
         static void Main(string[] args){ 
             Address  address = new Address();
             Customer customer_me = new Customer();
@@ -16,6 +17,7 @@ namespace OOP_Academy
             address.Number = "1620";
             address.PostalCode = "12345-678";
 
+            Console.WriteLine(customer_me._name);
             
         }
     
