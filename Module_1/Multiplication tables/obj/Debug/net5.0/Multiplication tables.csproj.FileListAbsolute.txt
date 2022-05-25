@@ -1,0 +1,16 @@
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.AssemblyInfo.cs
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.exe
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.deps.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.runtimeconfig.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.runtimeconfig.dev.json
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\bin\Debug\net5.0\Multiplication tables.pdb
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\refint\Multiplication tables.dll
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.pdb
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\Multiplication tables.genruntimeconfig.cache
+C:\Users\Gustavo\Z-FIAP-CSHARP\Multiplication tables\obj\Debug\net5.0\ref\Multiplication tables.dll
