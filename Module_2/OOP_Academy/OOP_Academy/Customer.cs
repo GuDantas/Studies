@@ -12,6 +12,8 @@ namespace OOP_Academy
         public int _age { get; set; }
         public float _height { get; set; }
 
+        public string _CPF_ID { get; set; }
+        public double _telephone { get; set; }
 
     }
 }
