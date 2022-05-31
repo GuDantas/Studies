@@ -19,8 +19,16 @@ namespace Class2_baking_app
         public  CheckingAccount(double number, bool especial, decimal limit, string client, double interest)
         {
             number = number;
+            Limit = limit;
+            Client = client;
+            Especial = especial;
+            Interest = interest;
 
-
+            
+        }
+        public void Retirar(decimal valor)
+        {
+            if(())
         }
     }
 

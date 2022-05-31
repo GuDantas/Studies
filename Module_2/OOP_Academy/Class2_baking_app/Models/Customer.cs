@@ -13,7 +13,7 @@ namespace Class2_baking_app
         public string _CPF_ID { get; set; }
         public double telephone { get; set; }
         
-        // In Brazil we call this from Contrutor, in inglesh would sound
+        // In Brazil we call this from Construtor, in inglish would sound like
         // builder, manufacturer, something like these
         public Customer(string _name, string _CPF_ID, double telephone)
         {
