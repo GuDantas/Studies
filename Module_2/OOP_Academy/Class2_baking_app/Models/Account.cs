@@ -9,7 +9,7 @@ namespace Class2_banking_app.Models
     internal class Account
     {
         public decimal balance { get; set; }
-        public ushort Acc_numver { get; set; }
+        public ushort acc_number { get; set; }
         public void Deposit(Decimal valor)
         {
             //verifying if the inserted value is valid
