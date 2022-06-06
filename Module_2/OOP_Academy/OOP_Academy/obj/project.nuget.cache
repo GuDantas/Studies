@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T3+0Ike9ULTL4Ae95/IlcIqcYyVf24nVkqOCVSK95WXsSrI7+s+vXGuVB5Pr0jthu4EczTFbfh02rRyG5rKDgw==",
+  "dgSpecHash": "6XyfXVVLi0iP1PL6aejclNtLvE3rr0njDbQrYV9tyTtTdqH5JYz5lXju80doEpZleQf2hMU5iisSDhv52HQmIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo\\Desktop\\Github\\Studies\\Module_2\\OOP_Academy\\OOP_Academy\\OOP_Academy.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Module_2\\OOP_Academy\\OOP_Academy\\OOP_Academy.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
