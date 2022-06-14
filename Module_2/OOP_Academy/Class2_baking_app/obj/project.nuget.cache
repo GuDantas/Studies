@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZobw+rjdTCbxqfcL0V4KeEezJJRYN4AjiSFO7pSTc8bitoT39ejtkeX6usH7cX4lpb9xdTg0KVor5BLcdhlMQ==",
+  "dgSpecHash": "DyRusnDihe03Dg7CN4/jT9YQayfuUfPixgXACebjkZuV8SBKaupjhSZx3b4p7JWmwfxJqB17JNMz1dhlfVw1sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo\\Desktop\\Github\\Studies\\Module_2\\OOP_Academy\\Class2_baking_app\\Class2_banking_app.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Module_2\\OOP_Academy\\Class2_baking_app\\Class2_banking_app.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
