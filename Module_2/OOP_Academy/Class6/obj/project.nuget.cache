@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ek2V3NkrRfEII5qCToYoCAIn/wlBOwilf6lSgPr/86KFG2Zf9m6MhwpRnX87hDRNGwVmSP6N/RU9sYiVC8yuhQ==",
+  "dgSpecHash": "WWzRUcflt6DsuDt1v7xXVf/lFzBIgSazDMsk4XfDsHDuN80G9bfifNEoE5DyLrrJXeem7YkybiFa/8tTiWYm5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Z-FIAP-CSHARP\\Module_2\\OOP_Academy\\Class6\\Class6.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gustavo\\Desktop\\Github\\Studies\\Module_2\\OOP_Academy\\Class6\\Class6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\gustavo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
