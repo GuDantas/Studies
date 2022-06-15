@@ -14,11 +14,31 @@ namespace Class2_banking_app.Models
         {
             number = acc_number;
         }
+<<<<<<< HEAD
 
+=======
+        public void Withdrawal(decimal value)
+        {
+            if(value < balance)
+            {
+                throw new InsufficientBalanceException("Insufficient balance, please check the inputed value and your balance");
+            }
+            else
+            {
+                balance -= value;
+                Console.WriteLine("You've just drew: ",value);
+                Console.WriteLine("Now your balance is: ",balance);
+            }
+        }
+>>>>>>> 983c45d67d9365752e91faa6eafaef4d13b88474
         public decimal ReturnOnInvestment(decimal rate)
         {
             return balance * rate;
         }
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 983c45d67d9365752e91faa6eafaef4d13b88474
     }
 }
