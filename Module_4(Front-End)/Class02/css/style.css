@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-page{
+    display: flex; 
+    
+    justify-content: space-around;
+}
+.header-menu{
+    display: block;
+    color: white;
+
+}
+.main-header{
+    color: wheat;
+    
+}
+.hero{
+    display: block;
+    color: white;
+    text-align:center;
+
+
+}
+.lorota-title{
+    color: wheat;
+    margin-bottom: 3vh;
+}
+
+.main{
+    background-image:url(/Class02/images/pexels-felix-mittermeier-957002.jpg);
+     background-repeat: no-repeat;
+     background-size:cover;
+     background-position: 50%;
+     display: flex;
+
+}
+.lorota{
+    padding-bottom: 2vh;
+}
+
+.btn{
+    color: black;
+    text-decoration: none;
+    border: 3px solid wheat;
+    background-color: wheat;
+    opacity: 0.6;
+    border-radius: 70px;
+    padding: 1vw ;
+
+}
+.button-text{
+    opacity: 1; 
+}
