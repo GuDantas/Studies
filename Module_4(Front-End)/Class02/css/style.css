@@ -32,7 +32,7 @@ body {
 }
 .header-list:hover{
     color: var(--color-pink);
-    list-style:cross-fade();
+    list-style:cross-fade() !important;
 
 }
 .hero{
@@ -48,7 +48,9 @@ body {
 }
 
 .main{
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0)),
+    width:100%;
+    height: 50vh;
+    background-image:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,0)),
      url(/Class02/images/pexels-felix-mittermeier-957002.jpg);
      background-repeat: no-repeat;
      background-size:cover;
@@ -71,12 +73,24 @@ body {
     padding: 1vw ;
 
 }
-.button-text{
-    opacity: 1 !important; 
-}
 .btn:hover{
     background-color:rgba( 245, 222, 179, .3);
     border: 0.3vh solid wheat;
-    transition: .5s;
-
+    transition: .8s;
+    text-decoration-color: var(--color-pink) ;
+}
+.tour{
+    width: 80%;
+    height: 100vh;
+    background-color: aquamarine;
+    margin: 80px auto;
+    text-align: center;
+}
+.tour-list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.tour-items{
+    width: 40%;
 }
