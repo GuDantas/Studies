@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Class2_banking_app.Models;
 
-internal class CheckingAccount
+ class CheckingAccount : Account
 {
     public bool Especial { get; set; }
 
@@ -15,19 +15,18 @@ internal class CheckingAccount
 
     public double Interest { get; set; }
 
-    public  CheckingAccount(double number, bool especial, decimal limit, string client, double interest)
+    public SavingAccount SavingAccount { get; set; }
+
+    public  CheckingAccount(double number, bool especial, decimal limit, string client, double interest, SavingAccount savingAccount)
     {
-        number = number;
+        number = acc_number;
         Limit = limit;
         Client = client;
         Especial = especial;
         Interest = interest;
-
+        SavingAccount = savingAccount;
         
     }
-    public void Withdraw(decimal value)
-    {
-        if(<=value)
-    }
+   
 }
 
